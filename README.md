@@ -1,8 +1,8 @@
 # bmi713-2019-groups
 bmi713-2019-groups
 
-Team members
-1) Eric Yamga
 
-GitHub for Open Science
-
+Team Members
+1) Vivek Upadhyay
+2) Peter Hong
+3) Eric Yamga
